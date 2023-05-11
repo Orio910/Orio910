@@ -1,4 +1,3 @@
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif"
 # 💫 About Me:
 🔭 I’m currently learning ReactJS and Rust<br>👯 I’m looking to collaborate on Web Projects<br>🤝 Available at telegram @Orio9<br>🌱 I’m currently working as MERN stack<br>💬 Ask me about Linux, Editing<br>⚡ Fun fact you're beautiful
 
